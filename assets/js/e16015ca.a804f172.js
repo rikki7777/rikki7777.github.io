@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkm_mlink=self.webpackChunkm_mlink||[]).push([[700],{5688:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1}')}}]);
