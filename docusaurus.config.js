@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: '项目内容',
           },
-          // { to: '/blog', label: 'Blog', position: 'left' },
+          //{ to: '/blog', label: 'Blog', position: 'left' },
         ],
       },
       footer: {
