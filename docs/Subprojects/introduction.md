@@ -20,7 +20,7 @@ sidebar_position: 1
 
 [点击下载设计原图](.\files\ID卡反面.JPG)
 
-![ID卡反面](.\img\ID卡反面.PNG)
+![ID卡反面](.\img\ID卡反面.png)
 
 居中的⼆维码是APP的跳转⼊⼝，扫码后展⽰3.2中APP⾸⻚界⾯。 ⻋辆ID是每⼀辆电动⻋唯⼀的编号，编码⽅式如下：
 
